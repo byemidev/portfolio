@@ -1,9 +1,7 @@
-# portfolio
-principal repository
-
+# Portfolio
 This is my personal portfolio repository.
 
-This repository content:
+# This repository content:
   - Source code
   - Schemas
   - UI/UX Designs
