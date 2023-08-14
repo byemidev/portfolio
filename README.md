@@ -1,6 +1,7 @@
 # Portfolio
 This is my personal portfolio repository.
-![image](https://github.com/byemidev/portfolio/assets/97583628/b1d544f9-87f5-48b7-b1ca-6da926631e92)
+![@byemi-0-1](https://github.com/byemidev/portfolio/assets/97583628/5f1bbd26-511a-48cf-8fa5-838fc89b7cb6)
+
 
 # This repository contains:
   - Source code
